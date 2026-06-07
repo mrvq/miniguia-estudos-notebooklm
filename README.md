@@ -22,11 +22,9 @@ A proposta consiste em realizar a curadoria de fontes confiáveis, utilizar o No
 
 ---
 
-## Estrutura do Projeto
+## 📚 Conteúdo do Projeto
 
-```text
-📂 fontes
-📂 prompts
-📂 resumos
-📂 imagens
+- [Curadoria de Fontes](fontes/links-fontes.md)
+- [Engenharia de Prompts](prompts/exemplos-prompts.md)
+- [Miniguia de Estudos](resumos/resumo-final.md)
 📄 README.md
