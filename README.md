@@ -27,4 +27,4 @@ A proposta consiste em realizar a curadoria de fontes confiáveis, utilizar o No
 - [Curadoria de Fontes](fontes/links-fontes.md)
 - [Engenharia de Prompts](prompts/exemplos-prompts.md)
 - [Miniguia de Estudos](resumos/resumo-final.md)
-📄 README.md
+
